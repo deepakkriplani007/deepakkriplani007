@@ -4,33 +4,63 @@
 </p>
 
 <h1 align="center">Hey there 👋, I'm Deepak Kriplani</h1>
-<h3 align="center">💻 Software Developer | ☁️ Cloud Enthusiast | 🚀 Full Stack Engineer</h3>
+<h3 align="center">💻 Full Stack Developer | ☁️ Cloud & DevOps Enthusiast | 🚀 Problem Solver</h3>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💼 About Me
+🎓 I’m pursuing an **Integrated B.Tech + M.Tech in Information Technology** at IIITM Gwalior (2021–26).  
+💻 Passionate about building **scalable web applications** and leveraging **cloud technologies** to solve real-world problems.  
+🚀 I enjoy creating clean, performant systems that make an impact.  
 
-- 🔭 I’m currently working on **MERN & Cloud-based projects**
-- 🌱 Learning **Kubernetes, Docker, and AWS Cloud**
-- 💬 Ask me about **React, Node.js, TypeScript, MongoDB, and System Design**
-- 📫 Reach me at **deepakkriplani007@gmail.com**
-- ⚡ Fun fact: I love automating things and optimizing backend performance.
+- 🔭 Currently working on **MERN & AI-integrated projects**
+- 🌱 Learning **Kubernetes, AWS, and system design**
+- 💬 Ask me about **React, Node.js, TypeScript, MongoDB, and Cloud Architecture**
+- 📫 Reach me at **deepakkriplanidev@gmail.com**
+- 🌐 Portfolio: [technokrax.com](https://technokrax.com)
 
 ---
 
-### 🛠️ Languages & Tools
+### 🧠 Experience
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,express,mongodb,java,cpp,python,git,docker,kubernetes,aws,linux,vscode,postman" />
-</p>
+**💼 Revoltronx Pvt. Ltd. (Apr 2024 – Aug 2024)**  
+*Full Stack Developer Intern (Remote)*  
+- Expanded a large-scale website with **20+ pages and 50+ reusable components**, boosting development speed by 30%.  
+- Optimized backend APIs using **Node.js & Express**, reducing latency by 25%.  
+- Delivered an **AI-driven learning module**, increasing engagement by 40%.  
+
+**💼 TechEduvisor Pvt. Ltd. (Nov 2023 – Dec 2023)**  
+*Full Stack Developer Intern (Remote)*  
+- Improved frontend integration with REST APIs for smoother UX.  
+- Enhanced performance for **500+ concurrent users**.  
+
+**💼 Freelance Developer (Jan 2024 – Mar 2024)**  
+- Built a **college portal with admin control**, automating attendance tracking for 100+ users.  
+- Enforced **MERN-stack best practices** and Git workflows for scalability.  
 
 ---
 
 ### 🚀 Featured Projects
 
-- [🎓 **College Attendance Admin Portal**](https://github.com/deepakkriplani007/college-portal) — Manage and track staff attendance with ease.  
-- [📱 **Lost Mobile Tracker using Fuzzy Logic**](https://github.com/deepakkriplani007/fuzzy-tracker) — Smart system predicting phone theft probability.  
-- [🔒 **Differential Privacy in ML**](https://github.com/deepakkriplani007/differential-privacy) — Implementing privacy-preserving ML algorithms.  
+**🧠 [TechnoKrax – All-in-One Learning Platform](https://technokrax.com)**  
+> AI-based learning, reading, and news platform improving user retention by 35%.  
+> **Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, TypeScript  
+
+**🤖 [Chatbot Application – AI Chat System](https://github.com/deepakkriplani007/chatbot)**  
+> Real-time chatbot integrating ChatGPT/Gemini APIs with login & chat history.  
+> **Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, TypeScript  
+
+**📺 [YT Video Bookmark – Chrome Extension](https://github.com/deepakkriplani007/YT-bookmark)**  
+> Save & manage YouTube timestamps with one click, boosting productivity by 35%.  
+> **Tech Stack:** JavaScript  
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,tailwind,mui,mongodb,firebase,aws,git,docker,kubernetes,linux,cpp,java,python,vscode,postman" />
+</p>
 
 ---
 
@@ -43,11 +73,11 @@
 
 ---
 
-### 🏆 Achievements & Activity
+### 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepakkriplani007&theme=tokyonight" alt="Profile Details"/>
-</p>
+- 🧩 Solved **310+ DSA problems** on [LeetCode](https://leetcode.com/u/King_DR/), rated **1600+**.  
+- 🛠️ Built **20+ full-stack projects** using the MERN stack.  
+- 📂 Maintains **25+ public repositories**, actively contributing in C++, JS, and Python.  
 
 ---
 
@@ -55,7 +85,8 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/deepakkriplani007" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:deepakkriplani007@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
+  <a href="mailto:deepakkriplanidev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
+  <a href="https://leetcode.com/u/King_DR/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode"/></a>
   <a href="https://github.com/deepakkriplani007" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
 </p>
 
