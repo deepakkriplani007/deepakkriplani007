@@ -17,7 +17,6 @@
 - 🌱 Learning **Kubernetes, AWS, and system design**
 - 💬 Ask me about **React, Node.js, TypeScript, MongoDB, and Cloud Architecture**
 - 📫 Reach me at **deepakkriplanidev@gmail.com**
-- 🌐 Portfolio: [technokrax.com](https://technokrax.com)
 
 ---
 
