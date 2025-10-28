@@ -47,7 +47,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deepakkriplani007&show_icons=true&theme=tokyonight" alt="Deepak's GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=deepakkriplani007&theme=tokyonight" alt="GitHub Streak" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deepakkriplani007&show_icons=true&theme=tokyonight" alt="Deepak's GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=deepakkriplani007&theme=tokyonight" alt="" /> </p>
 
 ---
 
