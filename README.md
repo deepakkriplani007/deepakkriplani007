@@ -17,25 +17,7 @@
 - 🌱 Learning **Kubernetes, AWS, and system design**
 - 💬 Ask me about **React, Node.js, TypeScript, MongoDB, and Cloud Architecture**
 - 📫 Reach me at **deepakkriplanidev@gmail.com**
-
----
-
-### 🧠 Experience
-
-**💼 Revoltronx Pvt. Ltd. (Apr 2024 – Aug 2024)**  
-*Full Stack Developer Intern (Remote)*  
-- Expanded a large-scale website with **20+ pages and 50+ reusable components**, boosting development speed by 30%.  
-- Optimized backend APIs using **Node.js & Express**, reducing latency by 25%.  
-- Delivered an **AI-driven learning module**, increasing engagement by 40%.  
-
-**💼 TechEduvisor Pvt. Ltd. (Nov 2023 – Dec 2023)**  
-*Full Stack Developer Intern (Remote)*  
-- Improved frontend integration with REST APIs for smoother UX.  
-- Enhanced performance for **500+ concurrent users**.  
-
-**💼 Freelance Developer (Jan 2024 – Mar 2024)**  
-- Built a **college portal with admin control**, automating attendance tracking for 100+ users.  
-- Enforced **MERN-stack best practices** and Git workflows for scalability.  
+- 🖋️ Know about my experiences [📄 Resume](https://drive.google.com/file/d/1vswAcR_-TY1f-BiR_oWCRaiRUGdMY31C/view?usp=sharing)
 
 ---
 
@@ -72,11 +54,11 @@
 
 ---
 
-### 🏆 Achievements
+### 🧩 Most Used Languages
 
-- 🧩 Solved **310+ DSA problems** on [LeetCode](https://leetcode.com/u/King_DR/), rated **1600+**.  
-- 🛠️ Built **20+ full-stack projects** using the MERN stack.  
-- 📂 Maintains **25+ public repositories**, actively contributing in C++, JS, and Python.  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkriplani007&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</p>
 
 ---
 
@@ -85,7 +67,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/deepakkriplani007" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:deepakkriplanidev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
-  <a href="https://leetcode.com/u/King_DR/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode"/></a>
   <a href="https://github.com/deepakkriplani007" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
 </p>
 
