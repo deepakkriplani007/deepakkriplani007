@@ -62,9 +62,8 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/deepakkriplani007" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/deepakkripani/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:deepakkriplanidev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
-  <a href="https://github.com/deepakkriplani007" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
 </p>
 
 ---
